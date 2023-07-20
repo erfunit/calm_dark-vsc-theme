@@ -1,0 +1,22 @@
+{
+  "name": "calm-dark",
+  "displayName": "calm-dark",
+  "description": "work with focus in darkness",
+  "version": "0.0.1",
+  "publisher": "Erfun Ghodoosi",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "calm dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calmDark-color-theme.json"
+      }
+    ]
+  }
+}
