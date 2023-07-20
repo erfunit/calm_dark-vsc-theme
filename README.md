@@ -1,6 +1,6 @@
 # Calm Coding Theme for Visual Studio Code
 
-![Calm Coding Theme](https://github.com/erfunit/calm-coding-theme/raw/main/images/calm-coding-theme.png)
+![Alt Text](./images/1.jpg)
 
 Welcome to the Calm Coding Theme for Visual Studio Code! This soothing and aesthetically pleasing dark theme has been carefully designed to create a calming atmosphere while you're immersed in your coding projects. Whether you're working on a personal project or collaborating with a team, the Calm Coding Theme aims to enhance your coding experience and provide a sense of tranquility.
 

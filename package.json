@@ -1,5 +1,6 @@
 {
   "name": "calm-dark",
+  "icon": "./icon.png",
   "displayName": "calm-dark",
   "description": "work with focus in darkness",
   "version": "0.0.1",
